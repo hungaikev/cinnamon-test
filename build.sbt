@@ -1,4 +1,4 @@
-name := "kiba"
+name := "cinnamon-test"
 
 version := "0.1"
 
